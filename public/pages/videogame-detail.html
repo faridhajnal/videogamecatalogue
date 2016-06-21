@@ -7,18 +7,41 @@
 	<hr/>
 
 	<div class="col-md-4">
-		<img src="img/halo4.jpg" class="img-full">
+		<img ng-src="img/{{mainimage}}" class="img-full">
+		<hr/>
+		<div class="row">
+			<div ng-repeat="image in videogame.images | limitTo:4" ng-show="numberofimages>2">
+				<div class="col-md-3">
+					<img ng-src="img/{{image.name}}" class=img-small ng-click="setImage(image)">
+				</div>
+			</div>
+
+		</div>
 	</div>
 
 	<div class="col-md-8">
 
-		<h3>Bioshock Infinito</h3>
+		<h3>{{videogame.name}}</h3>
 
-		<p> DESCRIPCION DEL JUEGO </p>
+		<p>{{videogame.description}}</p>
 
-		<h4>$500.00</h4>
+		<h4>{{videogame.price | currency}}</h4>
 
-		COMPRAR CON PAYPAL
+		<p>Año de lanzamiento: <b>{{videogame.year}}</b></p>
+
+		<form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post">
+  		<input type="hidden" name="cmd" value="_xclick">
+  		<input type="hidden" name="business" value="techguyseller@sandbox.com">
+  		<input type="hidden" name="item_name" value="{{videogame.name}}">
+  		<input type="hidden" name="item_number" value="{{videogame.id}}">
+  		<input type="hidden" name="amount" value="{{videogame.price}}">
+  		<input type="hidden" name="no_shipping" value="1">
+  		<input type="hidden" name="return" value="http://localhost:655">
+  		<input type="hidden" name="cancel_return" value="http://localhost:655">
+  		<input type="image" name="submit"
+    	src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif"
+    	alt="PayPal - The safer, easier way to pay online">
+		</form>
 
 	</div>
 

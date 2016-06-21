@@ -1,0 +1,141 @@
+[
+
+
+	{
+
+	"id" : 1,
+	"name" : "Bioshock Infinite",
+	"description" : "BioShock Infinite es un videojuego de disparos en primera persona y la tercera entrega de la franquicia BioShock, desarrollado por Irrational Games y distribuido por 2K Games, siendo dirigido por Ken Levine, para las plataformas Microsoft Windows, PlayStation 3, Xbox 360 y Linux/SteamOS.1 con su respectivo lanzamiento mundial el 26 de marzo de 2013.2 BioShock Infinite no es una secuela directa de las anteriores dos entregas, tomando lugar y tiempo antes de los eventos ocurridos en susodichas, pero reteniendo aún la misma esencia en elementos de jugabilidad y estructura estética en lo que ambientación se refiere. Situado en el año 1912, el jugador controlará a Booker DeWitt, un exagente de Pinkerton en su intento de rescatar a una mujer llamada Elizabeth, quien se encuentra atrapada a bordo de Columbia, una ciudad flotante en decadencia a punto de colapsa",
+	"year" : "2013",
+	"price" : "500",
+	"images" : [
+
+			{
+				"name" : "bioinf_1.jpg"
+			},
+
+			{
+				"name" : "bioinf_2.jpg"
+			},
+
+			{
+				"name" : "bioinf_3.jpg"
+			},
+
+			{
+				"name" : "bioinf_4.jpg"
+			},
+
+			{
+				"name" : "bioinf_5.jpg"
+			}
+
+
+			]
+
+
+
+	},
+
+	{
+
+	"id" : 2,
+	"name" : "Fallout 3",
+	"description" : "Fallout 3 es un videojuego de rol de acción desarrollado por Bethesda Game Studios y publicado por Bethesda Softworks. Es el tercer juego de la serie, a excepción de Fallout Tactics que se desarrolla en otra época. El juego fue lanzado en Norteamérica el 28 de Octubre, en parte de Europa y Australasia el 30 de octubre, en Reino Unido y Rusia el 31 de octubre de 2008. En Japón se retrasó la fecha de lanzamiento hasta el 4 de Diciembre debido a problemas con el contenido del juego.Fallout 3 se desarrolla en el año 2277, 36 años después de los sucesos de Fallout 2 y 200 años después del apocalipsis nuclear que devastó el mundo del juego en un futuro donde los conflictos internacionales con China culminaron en una guerra chino-estadounidense en la segunda mitad del siglo 21. El personaje protagonista es un habitante del Refugio 101, un refugio sobreviviente diseñado para proteger a mil humanos de los efectos nucleares, pero ese refugio estaba preparado para que nadie pudiera salir ni entrar porque el gobierno quería ver los efectos que producía estar encerrado sin exponerse al exterior. Cuando el padre del personaje desaparece bajo circunstancias misteriosas, el jugador se ve obligado a escapar del refugio y emprende un viaje entre las ruinas de Washington D.C. para encontrarlo. A lo largo del juego el jugador recibirá ayuda de un reducido número de sobrevivientes y también deberá pelear contra una gran variedad de enemigos en el área ahora conocida como 'Yermo Capital'. El juego tiene un sistema de atributos y combate típicos de un videojuego de rol y de acción pero también incorpora elementos de videojuegos de supervivencia de horror.",
+	"year" : "2008",
+	"price" : "300",
+	"images" : [
+
+			{
+				"name" : "fallout3.jpg"
+			}
+
+
+			]
+
+
+
+	},
+
+	{
+
+	"id" : 3,
+	"name" : "Gears of War 3",
+	"description" : "En la campaña tomarás el papel de Marcus, Dom, Baird, Cole y en pocas ocasiones Anya, Jace, Samantha y Clayton Carmine revelando la verdad acerca sobre la supuesta muerte del padre de Marcus y luchando contra un nuevo enemigo, los Lambent que ahora son la principal razón de la destruccion de Sera  y el regreso de los locust volviendo como Salvajes, ademas el regreso de la Reina Myrrah y sus revelaciones inesperadas sobre su relacion con Adam Fenix . Prologo.Marcus esta atrapado en una celda sin motivo alguno con varios polipos en una rejilla sobre la celda, derrepente aparece Anya y Jack liberando a Marcus diciendole que su padre lo necesita, el lo niega ya que el esta muerto pero Anya se va y Marcus la sigue y van por un pasillo y se transforma en el pasillo de la Academia de la Barricada Este, donde aparece Marcus, Dom, Anthony y Benjamin Carmine, Marcus le dice a su padre que deben irse pero Adam dice que su investigacion no esta completa, ahí tienes que defender la escalera y combatir a un corpser, Marcus y Dom corren con el profesor pero el King Raven que los iba a evacuar es derribado y se estrella con la academia causando la muerte de Adam Fenix.",
+	"year" : "2009",
+	"price" : "300",
+	"images" : [
+
+			{
+				"name" : "gears3.jpg"
+			}
+
+
+			]
+
+
+
+	},
+
+	{
+
+	"id" : 4,
+	"name" : "Halo 4",
+	"description":"Halo 4 es un videojuego de disparos en primera persona desarrollado por la filial 343 Industries y distribuido por Microsoft Studios para la videoconsola Xbox 360. Halo 4 es el primero de 'la trilogía del reclamador', y el séptimo lanzamiento de la franquicia Halo.1 2 Fue anunciado en Electronic Entertainment Expo de 2011 en la conferencia de prensa de Microsoft. Según el presentador de la conferencia, Halo 4 es el primero de una nueva trilogía de juegos dentro de la serie Halo. El juego continúa tiempo después del final de Halo 3, y marca el regreso del Jefe Maestro como personaje jugable. Cortana también aparecerá en el juego.3 El sitio web oficial se inició poco después de la conferencia de prensa en la E3, y afirma: 'Tras los eventos de Halo 3, el Jefe Maestro regresa para cumplir su destino y enfrentarse a un antiguo enemigo que amenaza el futuro del universo entero. Halo 4 marca el inicio de la nueva 'trilogía del reclamador', la cual comenzó con su lanzamiento en noviembre de 2012",
+	"year" : "2012",
+	"price" : "500",
+	"images" : [
+
+			{
+				"name" : "halo4.jpg"
+			}
+
+
+			]
+
+
+
+	},
+
+	{
+
+	"id" : 5,
+	"name" : "Left 4 Dead 2",
+	"description" : "Left 4 Dead 2 es un videojuego de disparos en primera persona cooperativo de tipo survival horror creado por la compañía Valve Software. Es la secuela de Left 4 Dead y se lanzó al mercado el 17 de noviembre de 2009 en Estados Unidos y Latinoamérica. En Europa llegó tres días después, el 20 de noviembre. Esta secuela está disponible para PC y para la consola Xbox 360.El 14 de diciembre de 2009 fue anunciado el primer contenido descargable para esta secuela: una nueva campaña llamada The Passing, que se desarrolla entre las dos primeras campañas del juego. Aquí se reúnen los protagonistas del primer Left 4 Dead (Francis, Louis y Zoey) con los supervivientes de esta secuela. Bill aparece sin vida, ya que se sacrificó para que los demás pudieran escapar. Salió a la luz el 22 de abril de 2010.1",
+	"year" : "2010",
+	"price" : "200",
+	"images" : [
+
+			{
+				"name" : "left4dead2.jpg"
+			}
+
+
+			]
+
+
+
+	},
+
+	{
+
+	"id" : 6,
+	"name" : "The Elder Scrolls V: Skyrim",
+	"description" : "The Elder Scrolls V : Skyrim es un videojuego de rol de acción del tipo mundo abierto desarrollado por Bethesda Game Studios y publicado por Bethesda Softworks. Es la quinta entrega de videojuegos de acción y fantasía de la serie The Elder Scrolls y es posterior a The Elder Scrolls IV: Oblivion y predecesor de The Elder Scrolls Online. Skyrim salió a la venta el 11 de noviembre de 20111 para las plataformas: Microsoft Windows, Xbox 360 y PlayStation 3. El 4 de junio de 2013 fueron lanzados al mercado tres expansiones que son descargables: Dawnguard, Hearthfire y Dragonborn.La historia de Skyrim se centra en los esfuerzos del personaje del jugador para derrotar a Alduin, un dragón que, según la profecía, destruirá el mundo. La trama está fechada doscientos años después de los sucesos de Oblivion y tiene lugar en la provincia ficticia de Skyrim. En el transcurso de la partida, el jugador completa misiones y hace evolucionar a su personaje gracias a la mejora de sus habilidades. A diferencia de los juegos anteriores de Elder Scrolls, en Skyrim no se requiere que el usuario seleccione un tipo de personaje al inicio del juego, resolviendo así el problema que el equipo de desarrolladores veía desde versiones anteriores: la necesidad de tener que forzar al usuario a un estilo rígido de juego. Skyrim continúa con la tradición de mundo abierto al permitir que el jugador viaje a cualquier parte del mapa del juego en cualquier momento y posponer indefinidamente u omitir parcial o totalmente la historia principal.",
+	"year" : "2011",
+	"price" : "399",
+	"images" : [
+
+			{
+				"name" : "skyrim.jpg"
+			}
+
+
+			]
+
+
+
+	}
+
+
+]
