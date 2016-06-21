@@ -1,0 +1,40 @@
+.videogames{
+
+	font-weight: bolder;	
+	text-align: center;
+
+}
+
+.videogames img{
+
+	height:300px;
+	width:100%;
+
+}
+
+.videogames a{
+
+	width: 50%;
+	text-align: center;
+	margin:auto;
+
+}
+
+.videogames col-md-4{
+
+	margin-bottom: 100px;
+
+}
+
+.back-button{
+
+	font-size: 20px;
+
+
+}
+
+.img-full{
+
+	width: 100%;
+	height:500px;
+}
